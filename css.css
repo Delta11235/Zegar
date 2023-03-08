@@ -1,5 +1,7 @@
-.kwadrat{
+#kwadrat{
     width: 100px;
     height: 100px;
     border: black solid 3px;
+    background-color: white;
+    margin: 10px;
 }
