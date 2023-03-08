@@ -5,3 +5,16 @@
     background-color: white;
     margin: 10px;
 }
+button{
+    width: 40px;
+    height: 30px;
+    background-color: white;
+    border: none;
+    background-color: whitesmoke;
+}
+#oba{
+    width: 84px;
+    height: 30px;
+    border: solid black;
+    background-color: lavender;
+}
