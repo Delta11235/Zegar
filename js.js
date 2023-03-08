@@ -1,3 +1,3 @@
 function Kolor() {
-    document.body.style.backgroundColor = "red";
+    document.getElementById("Kwadrat").style.backgroundColor = "red";
 }
