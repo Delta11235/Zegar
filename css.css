@@ -1,20 +1,11 @@
-#kwadrat{
-    width: 100px;
-    height: 100px;
-    border: black solid 3px;
-    background-color: white;
-    margin: 10px;
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-button{
-    width: 40px;
-    height: 30px;
-    background-color: white;
-    border: none;
-    background-color: whitesmoke;
-}
-#oba{
-    width: 84px;
-    height: 30px;
-    border: solid black;
-    background-color: lavender;
+span{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100px;
+    color: white;
 }
