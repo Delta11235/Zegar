@@ -24,6 +24,13 @@ function Czas() {
     else{
     document.getElementById("godz").innerHTML = godz;
     }
+
+    if (godz == 21 && min == 37) {
+        document.body.style.backgroundColor = "yellow";
+    }
+    else{
+        document.body.style.backgroundColor = "black";
+    }
     
 }
 
